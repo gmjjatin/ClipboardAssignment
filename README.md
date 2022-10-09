@@ -1,5 +1,5 @@
 This project contains two challenges - a "Ticket Breakdown" challenge and a "Refactoring" challenge. The two challenges are unrelated, but you should complete both in the same folder and share the link in Coderbyte. Any written answers should be included in markdown files within this folder.
-This is part recruitment of company Clipboard Health.
+This is part recruitment of company Clipboard Health accessed via angellist.
 
 
 ## [Ticket Breakdown](Ticket_Breakdown.md)
